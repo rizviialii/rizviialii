@@ -1,5 +1,5 @@
 Hello 👋, My name is Muhammad Ali
-- I am a full-time Computer Science student at Ontario Tech univeristy to become a software engineer.
+- Computer Science student at Ontario Tech univeristy aiming to become a software developer.
 - Languages: Python, C++, Java, HTML, CSS.
 - How to reach me: mshozabali8@gmail.com
 

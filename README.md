@@ -1,7 +1,6 @@
 Hello 👋, My name is Muhammad Ali
-- Pronouns: He/Him
 - I am a full-time Computer Science student at Ontario Tech univeristy to become a software engineer.
-- Languages & Techonology: HTML, C++, Java and Google Drive.
+- Languages: Python, C++, Java, HTML, CSS.
 - How to reach me: mshozabali8@gmail.com
 
 
